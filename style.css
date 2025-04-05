@@ -1,0 +1,86 @@
+table {
+    width: 100%;
+  }
+  #linha1 { height: 31px; align-items: center; background-color: #290840;}
+  #linha2 { height: 37px;  background-color: #D8CFDE} 
+  #linha3 { height: 113px; background-color: #D8CFDE}
+  #linha4 { height: 38px; background-color: #FFFFFF;}
+  #linha5 { height: 46px;  background-color: #FFFFFF;}
+  #linha6 { height: 46px; background-color: #FFFFFF;}
+  #linha7 { height: 152px;  background-color: #FFFFFF;}
+  #linha8 { height: 49px;  background-color: #FFFFFF;}
+  #linha9 { height: 35px; background-color: #FFFFFF;}
+  #linha10 { height: 39px; background-color: #FFFFFF;}
+  #linha11 { height: 45px; background-color: #FFFFFF;}
+  #linha12 { height: 10px; background-color: #3D2F47;}
+  #pesquisa {text-align: right;}
+  #lupa {width: 33px;}
+
+  .c1 {width: 38px;}
+  .c2 {width: 66px;}
+  .c3 {width: 25px;}
+  .c4 {width: 24px;}
+  .c5 {width: 31px;}
+  .c6 {width: 31px;}
+  .c7 {width: 40px;}
+  .c8 {width: 152px;}
+  .c9 {width: 59px;}
+  .c10 {width: 47px;}
+  .c11 {width: 159px;} 
+  .c12 {width: 82px;}
+  .c13 {width: 122px;}
+  .c14 {width: 34px;}
+  .c15 {width: 74px;}
+  .c16 {width: 176px;}
+  .c17 {width: 165px;}
+
+.align1{text-align: center;}
+.align2{text-align: right;}
+  
+.icone { width: 21px; fill:white;} 
+.pagini{ text-align: right; padding-right: 40px ; ;color:white; padding-top: 10px;}
+.pesquisa{ width: 10%; text-align: left; color:white}
+.sobre{ width: 7%; text-align: left; color:white}
+.contatenos { width: 13%; text-align: left; color:white; }  
+
+.selCate{text-align: right;}
+.pesquise{text-align: left;}
+.colIcone{text-align: center;}
+.barrinha2{ flex-direction: column;  align-items: flex-end; padding-right: 15px;}
+a {  color: white; text-decoration: none;}
+a:hover {  color: #c084fc; text-decoration: underline;}
+
+.home { width: 7%; ; text-align: center; border: solid 2px #735688; border-top: none; }
+.home svg{ height: 30px; vertical-align: middle;}
+.espaço1 {width: 64px;}
+.lupa {padding-right: 40%;}
+.user {  text-align: center;}
+.user svg{ height: 30px; vertical-align: middle;}
+.logo { width: 7%; ; text-align: center;   border: solid 3px #735688;  border-top: none; border-left: none; border-bottom: none; padding-right: 10%;}
+.borda1 {border: solid 3px #735688; border-top: none; border-left: none; border-right: none;}
+.borda2 {border: solid 3px #735688; border-top: none; border-left: none; border-right: none;}
+.borda3 {border: solid 3px #735688; border-top: none; border-left: none;}
+.borda4 {border: solid 3px #735688; border-top: none; border-left: none; border-right: none;}
+.borda5 {border: solid 3px #735688; border-top: none; border-left: none; border-right: #735688;}
+.borda6 {border: solid 3px #735688; border-top: none; border-left: none; border-right: #735688;}
+.borda7 {border: solid 3px #735688; border-top: none; border-left: none;}
+.borda8 {border: solid 3px #735688; border-top: none; border-left: none; border-right: #735688;}
+.borda9 {border: solid 3px #735688; border-top: none; border-left: none; border-right: none;}
+.borda9 {border: solid 3px #735688; border-top: none; border-left: none; border-right: none;}
+
+.poppins-regular {  font-family: "Poppins", sans-serif;  font-weight: 0;  font-style: normal;  color: white; font-size: 16px;}
+.road-rage-regular {   font-family: "Road Rage", sans-serif;   font-weight: 400;   font-style: normal; font-size: 40px;}
+.rhodium-libre-regular {  font-family: "Rhodium Libre", serif;  font-weight: 400;  font-style: normal; font-size: 40px;}
+.teclado { width: 7%; ; text-align: center; }
+.mouse {  text-align: center; padding-right: 3%; }
+  
+.fone {  text-align: center; }
+.microfone {  text-align: center; padding-right: 7%;}
+.linhaMuito { text-align: center; }
+.tecladoLinha{text-align: center;}  
+.mouseLinha{ text-align: center; }
+.foneLinha{ text-align: center; }
+.mtoMais{padding-right: 6%;}
+
+
+svg { height: 30px; text-align: center;}

@@ -1,0 +1,34 @@
+table {width: 100%;}
+#linha1 { height: 6px; align-items: center; background-color: #0E3261;}
+#linha2 { height: 112px; align-items: center; background-color: #D8CFDE;}
+#linha3 {height: 410px;}
+#linha4 {height: 264px}
+
+
+
+.colunaImagem {width: 181px;}
+.espaco {width: 72px;}
+.logo {text-align: center; width: 200px;
+    height: 120px;}
+
+
+.coming-soon-regular {    font-family: "Coming Soon", cursive;    font-weight: 400;    font-style: normal; font-size: 64px; } 
+.balsamiq-sans-bold {    font-family: "Balsamiq Sans", sans-serif;    font-weight: 700;    font-style: normal; font-size: 25px; color: #473F52; }
+.balsamiq-sans-regular {    font-family: "Balsamiq Sans", sans-serif;    font-weight: 400;    font-style: normal; font-size: 26px; color: #473F52; }
+
+.sobreR{text-decoration: underline;    text-decoration-thickness: 2px; text-decoration-color: #0E3261;   text-underline-offset: 4px;}
+.poppins-regular {  font-family: "Poppins", sans-serif;  font-weight: 0;  font-style: normal;  color: black; font-size: 16px;}
+
+.pagini{text-align: right;}
+.sobre{text-align: center;}
+.contatenos{}
+.produtos{padding-right: 50%;}
+
+.coisas {text-align: center; background-color: #D8CFDE; height: 112px; }
+  
+  .coisas span {display: inline-block; margin: 0 20px;}
+
+  .coisas a {font-size: 16px; text-decoration: none; color: black; transition: 0.2s; }
+  
+  .coisas a:hover {color: #6A1B9A; text-decoration: underline;}
+
